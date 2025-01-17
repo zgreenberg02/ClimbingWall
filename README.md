@@ -1,6 +1,7 @@
 # Climbing Wall
 <div align="center">
   <img src="https://raw.githubusercontent.com/zgreenberg02/ClimbingWall/master/Images/ClimbingWallCapture.jpg" alt="Climbing Wall" width="500">
+  <br />
     <img src="https://raw.githubusercontent.com/zgreenberg02/ClimbingWall/master/Images/ClimbingWall.jpg" alt="Climbing Wall" width="500">
 
   <p><b>Figure 1: Climbing Wall</b></p>
