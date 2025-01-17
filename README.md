@@ -8,7 +8,7 @@ This 10-foot climbing wall, designed and built in my attic, features four overha
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zgreenberg02/ClimbingWall/master/Images/ClimbingWallFrame.jpg" alt="Climbing Wall Frame" height="300">
+  <img src="https://raw.githubusercontent.com/zgreenberg02/ClimbingWall/master/Images/ClimbingWallFrame.jpg" alt="Climbing Wall Frame" height="400">
   <p><b>Figure 2: Climbing Wall Frame Under Construction</b></p>
 </div>
 
